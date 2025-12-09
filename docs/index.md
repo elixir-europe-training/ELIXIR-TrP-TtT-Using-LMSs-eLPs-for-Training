@@ -18,19 +18,26 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
-    &emsp;1. First requirement  
-    &emsp;2. Second requirement  
+    &emsp;1. Completion of the ELIXIR-GOBLET Train-the-Trainer (TtT) core modules or equivalent training experience. 
+    &emsp;2. Basic understanding of training design principles.
+    &emsp;3. Experience in delivering or facilitating training sessions, either in-person or online.
+    &emsp;4. Familiarity with digital learning environments (e.g. online collaboration tools and Learning Managing Systems)
+    &emsp;5. Access to and basic competence in using computational tools and resources
     
     </br>
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
-    By the end of the course, learners will be able to:  
-    &emsp;1. First item  
-    &emsp;2. Second item  
+    Upon completion of this open-access module, learners will able to:  
+    &emsp;1. Understand and apply the functions of e-learning platforms to deliver effective, interactive, and engaging digital training. 
+    &emsp;2. Design multimedia tutorials using design principles and platform tools that enhance interactivity and learner engagement.
+    &emsp;3. Conduct effective digital demonstrations by leveraging EeLP features to support real-time showcases and participant interaction.
+    &emsp;4. Create scenario-based learning activities that promote practical skill development.
+    &emsp;5. Implement and evaluate assessment strategies using LMS tools and analytics to inform and improve learning design.
+    &emsp;6. Apply best practices and reusable templates in LMS/EeLP to optimise and sustain future digital courses/training.
     
     </br>
     
-    :fontawesome-solid-users: **Target Audience:** Researchers, undergraduate students, postgraduate students, etc...  
+    :fontawesome-solid-users: **Target Audience:** Training instructors, teachers, and lecturers. 
     </br>
     
     :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
