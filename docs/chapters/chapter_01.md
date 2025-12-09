@@ -1,24 +1,23 @@
-## 1.1 First subtopic
-Here you can enter text and create inline citations[@Garcia2020] by using the bibtex plugin. Add your references in `references.bib`, and cite [@hoebelheinrich_nancy_j_2022_6769695] by adding the @refid inside brackets like this `[@10.1093/bioinformatics/btt113]`
+## Session 1: Introduction to e-Learning Platforms for training delivery
+The learning outcomes of session 1 is that learners will be able to:
+- Understand the core functions and benefits of e-learning platforms (LMS).
+- Identify the role of LMS in supporting digital training delivery.
+- Understand how EeLP and e-learning platforms facilitate interactive learning environments.
 
-You can also embed videos from a local source (with a relative path) or from an url (like youtube). To use a youtube URL, 
-just attach the ID of the video to a youtube embedded video link: `https://youtube.com/embed/`. For example, the Elixir training video `https://youtu.be/oAD8FdGf8tI` has the ID `oAD8FdGf8tI`, so the final link would be:
+Learning Management Systems (LMS) provide robust digital environments designed to facilitate interactive, engaging, and effective training experiences. LMS platforms typically include features such as content management, multimedia integration, interactive communication channels, and analytics for learner assessment - typically four levels: descriptive, diagnostic, predictive, and prescriptive.[^1] According to research, these platforms offer significant advantages including flexibility, scalability, and enhanced learner engagement.[^2]
+
+<p style="margin-right: 50px;">For example, the ELIXIR-SI eLearning Platform (EeLP) is tailored specifically for bioinformatics training, incorporating user-friendly navigation, seamless integration of diverse ELIXIR-supported digital resources, and tools for facilitating interactive and dynamic learning scenarios. Its intuitive interface allows for easy navigation and customisation, facilitating the practical application of theoretical knowledge from prior training modules.</p>
+
+<p style="margin-right: 50px;">EeLP offers functionalities that allow trainers to create tutorials, showcase tools, and conduct interactive exercises. This module focuses on bridging the gap between theoretical training principles introduced in earlier modules and their practical implementation, helping trainers understand the "how-to" aspects of delivering effective digital training.</p>
+
+<p style="margin-right: 50px;">EeLP is a Moodle-based LMS that enables export of tutorials and courses in SCORM2 (Sharable Content Object Reference Model, version 2) standard format. This ensures compatibility with a range of SCORM2-compliant LMSs, such as Canvas, and allows direct migration to other Moodle-based LMSs.</p>
+
 
 ```
 ![type:video](https://youtube.com/embed/oAD8FdGf8tI)
 ```
 
-![type:video](https://youtube.com/embed/oAD8FdGf8tI)
-
-## 1.2 Second subtopic
-
-!!! note "Note"
-
-    Here you can put a note using admonitions.
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## 1.3 Third subtopic
-
+[^1]: Lang, C. (2022). Learning Analytics. In C. Lang, G. Siemens, A. Wise, & D. Gašević (Eds.), Handbook of Learning Analytics (2nd ed.). Society for Learning Analytics Research (SoLAR). https://solaresearch.org/wp-content/uploads/hla22/HLA22_Chapter_1_Lang.pdf
+[^2]: Soncin M, Agasisti T, Frattini F, Patrucco A, Pero M. The Costs, Quality, and Scalability of Blended Learning in Postgraduate Management Education. J Manag Educ. 2022 Dec 1;46(6):1052–85. https://doi.org/10.1177/10525629221103826
 
 
