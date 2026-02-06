@@ -1,13 +1,11 @@
 - title: Brane Leskošek
   content: |
-    [:custom-orcid:](https://orcid.org/0000-0001-5202-2349) [:simple-linkedin:](https://www.linkedin.com/in/brane-lesko%C5%A1ek-4a4479a)<br>
+    [:custom-orcid:](https://orcid.org/0000-0001-5202-2349) [:simple-linkedin:](https://www.linkedin.com/in/brane-leskošek-4a4479a/)<br>
     ELIXIR Slovenia
   image: https://avatars.githubusercontent.com/Brane007
 
-  # To change from GitHub profile image to custom photo: upload photos to docs/assets/images/cards/
-
 - title: Nazeefa Fatima
   content: |
-    [:custom-orcid:](https://orcid.org/0000-0001-7791-4984) [:simple-linkedin:](https://www.linkedin.com/in/nazeefafatima)<br>
+    [:custom-orcid:](https://orcid.org/0000-0001-7791-4984) [:simple-linkedin:](https://www.linkedin.com/in/nazeefafatima)
     ELIXIR Norway
-  image: https://avatars.githubusercontent.com/Nazeeefa
+  image: ./assets/images/cards/nazeefa_fatima.jpg
