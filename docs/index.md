@@ -30,12 +30,12 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     Upon completion of this open-access module, learners will able to:  
     
-    &emsp;1. Understand and apply the functions of e-learning platforms to deliver effective, interactive, and engaging digital training. 
-    &emsp;2. Design multimedia tutorials using design principles and platform tools that enhance interactivity and learner engagement.
-    &emsp;3. Conduct effective digital demonstrations by leveraging EeLP features to support real-time showcases and participant interaction.
-    &emsp;4. Create scenario-based learning activities that promote practical skill development.
-    &emsp;5. Implement and evaluate assessment strategies using LMS tools and analytics to inform and improve learning design.
-    &emsp;6. Apply best practices and reusable templates in LMS/EeLP to optimise and sustain future digital courses/training.
+    1. Understand and apply the functions of e-learning platforms to deliver effective, interactive, and engaging digital training. 
+    2. Design multimedia tutorials using design principles and platform tools that enhance interactivity and learner engagement.
+    3. Conduct effective digital demonstrations by leveraging EeLP features to support real-time showcases and participant interaction.
+    4. Create scenario-based learning activities that promote practical skill development.
+    5. Implement and evaluate assessment strategies using LMS tools and analytics to inform and improve learning design.
+    6. Apply best practices and reusable templates in LMS/EeLP to optimise and sustain future digital courses/training.
     
     </br>
     
