@@ -2,8 +2,12 @@ site_name: ELIXIR Training Lesson
 nav:
     - About: index.md
     - Course Content:
-      - "1. title of first chapter": chapters/chapter_01.md
-      - "2. title of second chapter": chapters/chapter_02.md
+      - "1. Introduction to e-Learning Platforms for training delivery": chapters/chapter_01.md
+      - "2. Designing interactive tutorials with e-Learning Platforms": chapters/chapter_02.md
+      - "3. Showcase sessions through LMS": chapters/chapter_03.md
+      - "4. Developing interactive exercises for skill application": chapters/chapter_04.md
+      - "5. Assessment and evaluation within e-Learning Platforms": chapters/chapter_05.md
+      - "6. Conclusion and next steps": chapters/chapter_06.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
