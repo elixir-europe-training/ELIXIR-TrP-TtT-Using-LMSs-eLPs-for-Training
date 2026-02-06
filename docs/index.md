@@ -1,4 +1,4 @@
-# ELIXIR-GOBLET
+# ELIXIR-GOBLET Train-the-Trainer: Practical application of training skills in a digital environment
 
 [add-bioschemas file='_data/metadata.yaml']
 
