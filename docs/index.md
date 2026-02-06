@@ -18,6 +18,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
     To be able to follow this course, learners should have knowledge in:  
+    
     1. Completion of the ELIXIR-GOBLET Train-the-Trainer (TtT) core modules or equivalent training experience. 
     2. Basic understanding of training design principles.
     3. Experience in delivering or facilitating training sessions, either in-person or online.
@@ -28,6 +29,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-arrow-right: **Learning Outcomes:**  
     Upon completion of this open-access module, learners will able to:  
+    
     &emsp;1. Understand and apply the functions of e-learning platforms to deliver effective, interactive, and engaging digital training. 
     &emsp;2. Design multimedia tutorials using design principles and platform tools that enhance interactivity and learner engagement.
     &emsp;3. Conduct effective digital demonstrations by leveraging EeLP features to support real-time showcases and participant interaction.
