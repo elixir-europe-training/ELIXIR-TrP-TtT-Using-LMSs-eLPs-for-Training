@@ -138,6 +138,24 @@
               }
             ],
             "name": "ELIXIR"
+          },
+          {
+            "id": "05njb9z20",
+            "identifiers": [
+              {
+                "identifier": "05njb9z20",
+                "scheme": "ror"
+              },
+              {
+                "identifier": "grid.8954.0",
+                "scheme": "grid"
+              },
+              {
+                "identifier": "0000 0001 0721 6013",
+                "scheme": "isni"
+              }
+            ],
+            "name": "University of Ljubljana"
           }
         ],
         "person_or_org": {
@@ -151,6 +169,13 @@
           ],
           "name": "Brane, Lesko\u0161ek",
           "type": "personal"
+        },
+        "role": {
+          "id": "projectmember",
+          "title": {
+            "de": "Projektmitglied",
+            "en": "Project member"
+          }
         }
       },
       {
@@ -293,26 +318,26 @@
       "provider": "oai"
     }
   },
-  "revision_id": 12,
+  "revision_id": 18,
   "stats": {
     "all_versions": {
       "data_volume": 0.0,
       "downloads": 0,
       "unique_downloads": 0,
-      "unique_views": 4,
-      "views": 5
+      "unique_views": 35,
+      "views": 46
     },
     "this_version": {
       "data_volume": 0.0,
       "downloads": 0,
       "unique_downloads": 0,
-      "unique_views": 4,
-      "views": 5
+      "unique_views": 17,
+      "views": 26
     }
   },
   "status": "published",
   "swh": {},
-  "updated": "2026-02-12T10:52:58.024687+00:00",
+  "updated": "2026-02-18T14:11:44.208108+00:00",
   "versions": {
     "index": 1,
     "is_latest": true,
