@@ -8,4 +8,4 @@ Showcase sessions within LMS environments allow trainers to practically demonstr
 
 <p style="margin-right: 50px;">EeLP serves as an excellent example, enabling seamless integration and demonstration of specialised bioinformatics tools directly within learning modules. It further supports interactive elements such as discussion forums, live chats, and Q&A sessions, enriching the demonstration experience and encouraging learner participation and collaboration.</p>
 
-[^4] Grossman R, Salas E, Pavlas D, Rosen MA. Using Instructional Features to Enhance Demonstration-Based Training in Management Education. Acad Manag Learn Educ. 2013 June 1;12(2):219–43. https://doi.org/10.5465/amle.2011.0527
+[^4]: Grossman R, Salas E, Pavlas D, Rosen MA. Using Instructional Features to Enhance Demonstration-Based Training in Management Education. Acad Manag Learn Educ. 2013 June 1;12(2):219–43. https://doi.org/10.5465/amle.2011.0527
