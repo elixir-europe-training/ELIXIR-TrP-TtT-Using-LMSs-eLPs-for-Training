@@ -1,5 +1,6 @@
 ## Introduction to e-Learning Platforms for training delivery
 The learning outcomes of session 1 is that learners will be able to:
+
 - Understand the core functions and benefits of e-learning platforms (LMS).
 - Identify the role of LMS in supporting digital training delivery.
 - Understand how EeLP and e-learning platforms facilitate interactive learning environments.
