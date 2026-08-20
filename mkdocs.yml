@@ -32,12 +32,7 @@ repo_url: https://elixir-europe-training.github.io/ELIXIR-TrP-TtT-Using-LMSs-eLP
 edit_uri: edit/main/docs/
 
 plugins:
-  - tags:
-      tags_file: keywords.md
   - search
-  - bibtex:
-      bib_file: "references.bib"
-  - mkdocs-video # embed videos to the docs
 
   
 # Footer
