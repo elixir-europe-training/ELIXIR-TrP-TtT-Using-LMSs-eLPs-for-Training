@@ -6,4 +6,3 @@ Created by Brane Leskošek (ELIXIR Slovenia), Nazeefa Fatima (ELIXIR Norway), an
 
 [![DOI](https://zenodo.org/badge/1059450045.svg)](https://doi.org/10.5281/zenodo.18610044)
 
-For instruction on how to use the template, please follow this documentation: https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-MkDocs/
