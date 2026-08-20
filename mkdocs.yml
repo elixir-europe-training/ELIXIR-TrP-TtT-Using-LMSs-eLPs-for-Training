@@ -1,3 +1,6 @@
+# 
+docs_dir: docs_build
+
 site_name: "ELIXIR-GOBLET Train-the-Trainer: Practical application of training skills in a digital environment"
 nav:
     - About: index.md
